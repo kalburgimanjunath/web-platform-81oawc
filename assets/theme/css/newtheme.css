@@ -1,0 +1,126 @@
+.yellocolorborder{
+  width: 5rem;
+  position: absolute;
+  top: 56px;
+  border-bottom: 2px solid #ffc000;
+}
+.blueconnecting{
+  color:#1592b5;
+}
+.yellocolorbottomborder{
+  width: 30px;
+    height: 30px;
+    position: absolute;
+}
+.yellocolorbottomborder:before{
+  content: "";
+    position: absolute;
+    top: 134%;
+    width: 100%;
+    left: -30px;
+    height: 3px;
+    border-radius: 2px;
+    background: linear-gradient(
+130deg,#ffc000,#ffc000 41.07%,#ffc000 76.05%);
+}
+@font-face {
+  font-family: 'newthemefont-regular';
+  src:  url('../fonts/bariol_regular-webfont.eot');
+  src:  url('../fonts/bariol_regular-webfont.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/bariol_regular-webfont.woff2') format('woff2'),
+    url('../fonts/bariol_regular-webfont.ttf') format('truetype'),
+    url('../fonts/bariol_regular-webfont.woff') format('woff'),
+    url('../fonts/bariol_regular-webfont.svg#socicon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'newthemefont-bold';
+  src:  url('../fonts/bariol_bold-webfont.eot');
+  src:  url('../fonts/bariol_bold-webfont.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/bariol_bold-webfont.woff2') format('woff2'),
+    url('../fonts/bariol_bold-webfont.ttf') format('truetype'),
+    url('../fonts/bariol_bold-webfont.woff') format('woff'),
+    url('../fonts/bariol_bold-webfont.svg#socicon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'newthemefont-light';
+  src:  url('../fonts/bariol_light-webfont.eot');
+  src:  url('../fonts/bariol_light-webfont.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/bariol_light-webfont.woff2') format('woff2'),
+    url('../fonts/bariol_light-webfont.ttf') format('truetype'),
+    url('../fonts/bariol_light-webfont.woff') format('woff'),
+    url('../fonts/bariol_light-webfont.svg#socicon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'newthemefont-thin';
+  src:  url('../fonts/bariol_thin-webfont.eot');
+  src:  url('../fonts/bariol_thin-webfont.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/bariol_thin-webfont.woff2') format('woff2'),
+    url('../fonts/bariol_thin-webfont.ttf') format('truetype'),
+    url('../fonts/bariol_thin-webfont.woff') format('woff'),
+    url('../fonts/bariol_thin-webfont.svg#socicon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+.display-2{
+  font-family: 'newthemefont-regular' !important;
+}
+
+.display-7 .text-white{
+  font-size: 1.6rem;
+  line-height: 2.6rem;
+}
+.navbar-nav .nav-item .display-4{
+  font-family: 'newthemefont-thin' !important;
+  font-weight: 100;
+  color: #a9b3be !important;
+  font-size: 1rem;
+}
+.card-wrapper{
+  border-radius: 0 !important;
+}
+.card1{
+  background-color: #102d2d !important;
+}
+.card2{
+  background-color: #162e50 !important;
+}
+.card3{
+  background-color: #381854 !important;
+}
+.card4{
+  background-color: #41244d !important;
+}
+.card-wrapper .mbr-text{
+  color:#999aa3 !important;
+  font-family: 'newthemefont-regular' !important;
+  margin-top: 24px;
+    margin-bottom: 24px !important;
+}
+.display-4 img{
+  width:140px !important;
+      margin-left: 10px;
+}
+.mmcards .row > .col-lg-6{
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+}
+.display-5{
+  font-size: 2.3rem !important;
+  font-family: 'newthemefont-thin' !important;
+}
+.btn{
+  padding: 0.1rem 1.2rem !important;
+}
+.backgroundsearch{
+  background-image: url('../../images/search_bar_001.png');
+}

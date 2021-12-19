@@ -1,0 +1,10 @@
+@font-face {
+   font-family: 'bariol_thin-webfont';
+   font-display: swap;
+   src: url('bariol_thin-webfont/font.ttf');
+}
+@font-face {
+   font-family: 'bariol_regular-webfont';
+   font-display: swap;
+   src: url('bariol_regular-webfont/font.ttf');
+}
