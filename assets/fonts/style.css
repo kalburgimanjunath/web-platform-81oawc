@@ -8,3 +8,8 @@
    font-display: swap;
    src: url('bariol_regular-webfont/font.ttf');
 }
+@font-face {
+   font-family: 'bariol_bold_italic-webfont';
+   font-display: swap;
+   src: url('bariol_bold_italic-webfont/font.ttf');
+}

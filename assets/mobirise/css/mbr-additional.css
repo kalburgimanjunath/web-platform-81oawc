@@ -18,7 +18,7 @@ body {
   font-size: 3.75rem;
 }
 .display-4 {
-  font-family: 'bariol_thin-webfont';
+  font-family: 'bariol_bold_italic-webfont';
   font-size: 1.2rem;
   line-height: 1.5;
 }
@@ -595,7 +595,7 @@ a:hover {
   display: none;
 }
 .form-control {
-  font-family: 'bariol_thin-webfont';
+  font-family: 'bariol_bold_italic-webfont';
   font-size: 1.2rem;
   line-height: 1.5;
   font-weight: 400;
@@ -609,7 +609,7 @@ a:hover {
   border-color: #bf0769 !important;
 }
 .form-control:-webkit-input-placeholder {
-  font-family: 'bariol_thin-webfont';
+  font-family: 'bariol_bold_italic-webfont';
   font-size: 1.2rem;
   line-height: 1.5;
   font-weight: 400;
