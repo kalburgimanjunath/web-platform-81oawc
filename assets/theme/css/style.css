@@ -1,4 +1,6 @@
+
 @charset "UTF-8";
+@import './newtheme.css';
 section {
   background-color: #ffffff;
 }
